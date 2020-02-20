@@ -19,6 +19,7 @@ h1 {
   }
   p.helvetica {
     font-family: "Helvetica", Times, serif;
+    color:indianred;
   }
   p.oblique {
     font-style: oblique;
